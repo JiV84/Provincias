@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prueba_Provincias.Localidad" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAQAAAAAAIAAAgAAAACAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Localidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba_Provincias.OrigenDatos" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAAAQAAgAAQBgAAAAAAAAAAAAAqAAAAEAiAAA=</HashCode>
+      <FileName>OrigenDatos.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dao" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="provincias" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Prueba_Provincias.GUI" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>hCACQAEAESAAABAgBBiACABWIMA4AQKAEHBMAAAAAAA=</HashCode>
+      <FileName>GUI.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="datos" />
+      <Field Name="config" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Prueba_Provincias.DAOProvincia" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAABgAAACAABAAAAAAAAAAAAAgAAE=</HashCode>
+      <FileName>DAOProvincia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba_Provincias.ConfigConexion" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AKAAAhAAACAAABIAAACAABBCIAAoAAAAUEAAAAAAAAA=</HashCode>
+      <FileName>ConfigConexion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="datosConexion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Prueba_Provincias.Program" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gui" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Prueba_Provincias.Provincia" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAAAAAAAIAAAAAAAACAQAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Provincia.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_localidades" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Struct Name="Prueba_Provincias.DatosConexion" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAQCAAAEAgAAAAAAAAAACIAAAAgAAAAAAQA=</HashCode>
+      <FileName>DatosConexion.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

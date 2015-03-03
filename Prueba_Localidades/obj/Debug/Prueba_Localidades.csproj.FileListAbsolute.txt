@@ -1,0 +1,8 @@
+J:\ED\proyectos\Prueba_Localidades\Prueba_Localidades\bin\Debug\Prueba_Localidades.exe
+J:\ED\proyectos\Prueba_Localidades\Prueba_Localidades\bin\Debug\Prueba_Localidades.pdb
+J:\ED\proyectos\Prueba_Localidades\Prueba_Localidades\obj\Debug\Prueba_Localidades.csprojResolveAssemblyReference.cache
+J:\ED\proyectos\Prueba_Localidades\Prueba_Localidades\obj\Debug\Prueba_Localidades.GUI.resources
+J:\ED\proyectos\Prueba_Localidades\Prueba_Localidades\obj\Debug\Prueba_Localidades.Properties.Resources.resources
+J:\ED\proyectos\Prueba_Localidades\Prueba_Localidades\obj\Debug\Prueba_Localidades.csproj.GenerateResource.Cache
+J:\ED\proyectos\Prueba_Localidades\Prueba_Localidades\obj\Debug\Prueba_Localidades.exe
+J:\ED\proyectos\Prueba_Localidades\Prueba_Localidades\obj\Debug\Prueba_Localidades.pdb
