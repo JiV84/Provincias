@@ -10,7 +10,7 @@ namespace Prueba_Provincias
         #region Campos
         private string _municipio;
         private string _codProvincia;
-        private string _codPostal; //si uso.
+        private string _codPostal;
         #endregion
 
         #region Constructores
